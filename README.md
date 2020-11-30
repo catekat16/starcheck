@@ -47,27 +47,27 @@ FoodFinds is an app meant to used by college students looking to give away their
 
 ### Walkthrough of App so far Gif
 
-<img src="http://g.recordit.co/07z0vMCKsx.gif" width=300><br>
+<img src="http://g.recordit.co/07z0vMCKsx.gif" width=400><br>
 
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
 
-
-### Maple
+------------------------
+# Maple
 
 🍁 Maple is a social reward platform where users can use points from one restaurant to claim a reward from another, for a premium. More than any loyalty program hub or dining rewards program, this elegant solution has the power to simultaneously nurture meaningful relationships with regulars and offer the flexibility that variety-minded diners desperately crave.
 
 <table>
   <tr>
     <td>
-      <img src="http://g.recordit.co/FC1QpzxkG6.gif" width=250>
+      <img src="http://g.recordit.co/FC1QpzxkG6.gif" width=350>
     </td>
     <td>
-      <img src="http://g.recordit.co/8yJMGwcqU9.gif" width=250>
+      <img src="http://g.recordit.co/8yJMGwcqU9.gif" width=350>
     </td>
   </tr>
 </table>
 
-### Supercharged 
+# Supercharged 
 
-<img src="http://g.recordit.co/TwWiAqHMgd.gif" height=350><br>
+<img src="http://g.recordit.co/TwWiAqHMgd.gif" height=500><br>
