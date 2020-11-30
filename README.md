@@ -5,7 +5,9 @@
 > The portfolio section on my personal website https://caitlynchen.com will be launched soon! <br>
 > For now I'll share some design prototypes of various projects I've been working on recently: 
 
-### Project for my UI Design Course
+# FoodFinds
+
+<img src="foodfinds screenshots/foodfindscover.png" width=1000><br>
 
 FoodFinds is an app that allows college students to share extra food items with peers. 
 
@@ -16,13 +18,34 @@ FoodFinds is an app meant to used by college students looking to give away their
 
 ### Prototyping Process
 
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/brainstorming1.jpg" width=500>
+    </td>
+    <td>
+      <img src="foodfinds screenshots/brainstorming2.jpg" width=500>
+    </td>
+    <td>
+      <img src="foodfinds screenshots/brainstorming3.jpg" width=500>
+    </td>
+  </tr>
+</table>
+
+### Prototyping Process
+
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/paperprototypea.jpg" height=600>
+    </td>
+    <td>
+      <img src="foodfinds screenshots/paperprototypeb.jpg" height=600>
+    </td>
+  </tr>
+</table>
 
 ### Walkthrough of App so far Gif
-
-FoodFinds is 
-
-<img src="foodfinds screenshots/brainstorming1.jpg">
-
 
 <img src="http://g.recordit.co/07z0vMCKsx.gif" width=300><br>
 
