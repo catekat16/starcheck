@@ -3,12 +3,11 @@
 ###### Caitlyn Chen
 
 > The portfolio section on my personal website https://caitlynchen.com will be launched soon! <br>
-> For now I'll share some design prototypes of various projects I've been working on recently! 
+> For now I'll share some design prototypes of various projects I've been working on recently: 
 
 ### Project for my UI Design Course
 
-FoodFinds is an app that allows college students to share extra food items with peers. FoodFinds seeks to address issues of food waste and food insecurity in a feel-good way, eliminating discomfort users may feel from revealing to their peers that they need an extra meal swipe or would be willing to take food items other people had given away. 
-
+FoodFinds is an app that allows college students to share extra food items with peers. FoodFinds seeks to address issues of food waste and food insecurity in a feel-good way, eliminating discomfort users may feel from revealing to their peers that they need an extra meal swipe or would be willing to take food items their peers had given away. To ameliorate any discomfort, in addition to anonymity support, the users who provide "supply" on the app will be the ones to take initiative, and be the ones to make requests for getting leftover meal swipes or snack items getting taken off their hands, while users who represent "demand" on the app will be the ones to respond to those requests. In essence, FoodFinds is turning the tables on any stigma that may have resulted from a user having to reach out to another user to get free food, by flipping the direction of that exchange. FoodFinds is an app meant to used by college students looking to give away their unused meal swipes for the week, get the latest scoop on free food opportunities, find out where on campus to grab snacks, or even meet up with a potential new friend and receive a yummy food item as the icing on top. Our motto: don't let food go to waste! eat and share free food around campus!
 
 
 ### Prototyping Process
