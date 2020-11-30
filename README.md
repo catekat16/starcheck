@@ -45,6 +45,22 @@ FoodFinds is an app meant to used by college students looking to give away their
   </tr>
 </table>
 
+### Figma File 
+
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/figma1.png" height=300>
+    </td>
+    <td>
+      <img src="foodfinds screenshots/figma2.png" height=300>
+    </td>
+    <td>
+      <img src="foodfinds screenshots/assets.png" height=300>
+    </td>
+  </tr>
+</table>
+
 ### Walkthrough of App so far Gif
 
 <img src="http://g.recordit.co/07z0vMCKsx.gif" width=400><br>
