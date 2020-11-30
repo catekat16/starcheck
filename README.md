@@ -71,7 +71,35 @@ https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=sca
 ------------------------
 # Maple
 
+<img src="maplecover.png" width=1000><br>
+
 🍁 Maple is a social reward platform where users can use points from one restaurant to claim a reward from another, for a premium. More than any loyalty program hub or dining rewards program, this elegant solution has the power to simultaneously nurture meaningful relationships with regulars and offer the flexibility that variety-minded diners desperately crave.
+
+# Development process
+
+Building the MVP for Maple was my first time using SwiftUI. As SwiftUI is still a relatively new language, a large part of the challenges came from implementing certain methods that were not supported. For example, when draggint the horizontal carousel view, the ability to have the current card in view slow down and "snap" into place, rather than whizzing past at the same speed as the other cards in the carousel.
+
+Code snippet:
+
+<img src="maple screenshots/carouselspeed.png" height=200>
+
+### Screenshots of some screens
+
+<table>
+  <tr>
+    <td>
+      <img src="maple screenshots/screen1a.png" height=400>
+    </td>
+    <td>
+      <img src="maple screenshots/screen2.png" height=400>
+    </td>
+    <td>
+      <img src="maple screenshots/screen3a.png" height=400>
+    </td>
+  </tr>
+</table>
+
+### Walkthrough of App so far Gif
 
 <table>
   <tr>
