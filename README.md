@@ -99,6 +99,8 @@ Code snippet:
   </tr>
 </table>
 
+Design prototyping for Maple was done primarily in Adobe XD, as well as during the development process itself. The entirety of the profile screen was prototyped in SwiftUI without preliminary design prototyping, as was part of the Market View tab (first screen), as well as the point distribution popup in the Restaurant View.
+
 ### Walkthrough of App so far Gif
 
 <table>
