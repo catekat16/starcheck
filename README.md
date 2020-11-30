@@ -2,7 +2,7 @@
 
 ###### Caitlyn Chen
 
-> The portfolio section on my personal website https://caitlynchen.com will be launched soon
+> The portfolio section on my personal website https://caitlynchen.com will be launched soon! <br>
 > For now I'll share some design prototypes of various projects I've been working on recently! 
 
 ### Project for my UI Design Course
