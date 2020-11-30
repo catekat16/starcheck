@@ -21,7 +21,7 @@ FoodFinds is an app meant to used by college students looking to give away their
 
 FoodFinds is 
 
-<img src="
+<img src="foodfinds screenshots/brainstorming1.jpg">
 
 
 <img src="http://g.recordit.co/07z0vMCKsx.gif" width=300><br>
