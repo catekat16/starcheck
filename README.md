@@ -15,7 +15,6 @@ FoodFinds seeks to address issues of food waste and food insecurity in a feel-go
 
 FoodFinds is an app meant to used by college students looking to give away their unused meal swipes for the week, get the latest scoop on free food opportunities, find out where on campus to grab snacks, or even meet up with a potential new friend and receive a yummy food item as the icing on top. Our motto: don't let food go to waste! eat and share free food around campus!
 
-
 ### Brainstorming Process
 
 <table>
@@ -32,6 +31,10 @@ FoodFinds is an app meant to used by college students looking to give away their
   </tr>
 </table>
 
+Currently, Foodfinds is in its second user-centered design (UCD)loop. Across ~10 user research interviews gathered so far, the major risks that have been identified and tackled were people feeling uncomfortable with getting food from others due to stigma surrounding food insecurity issues and differentiating Foodfinds from existing platforms like Sharemeals, Olio, and Facebook marketplace. The risk that still needs to be tackled is incentivizing people to be active on the platform and share food opportunities, whether thhat will involve a sharer-to-receiver review system or visualizations (either in the form of a percentage or points that will convert to badges) of carbon emissions  reduced from food that would have gone to waste. Once again, in making sure that using Foodfinds doesn't feel like an act of charity in giving food to peers in need, Foodfinds's brand values aren't about doing social good for peers, but about doing environmental good for the planet and for the food itself that would have otherwise gone to waste. 
+
+I plan to implement FoodFinds in SwiftUI after getting the Figma prototype to a state where all aspects of the app's core functionality is well represented. I'm excited to revisit the language after the most recent updates since I last used it over the summer!
+
 ### Prototyping Process
 
 <table>
@@ -46,6 +49,30 @@ FoodFinds is an app meant to used by college students looking to give away their
 </table>
 
 ### Figma File 
+
+Setting up the design system so that it had the feel of a real iOS app and so that I could reuse components definitely took quite a bit of time! One of the most time consuming challenges was actually getting the dimensions of items to be consistent in scale and ensuring that items in a group had the same positioning and alignment (I wish that Figma had Adobe XD's grid drag thingy!). I also used horizontal scrolling for the first time in Figma (I've had more experience previously using Adobe XD and Invision Studio). I used a bunch of icons I found in the Figma community, and started laying out FoodFind's color palette as well. As with my paper prototype (that I had drawn in Notability on my iPad), I decided to go with a light blue as the main theme color, which is quite fitting, as light blue is Columbia University's color, and FoodFinds is meant to be used by Columbia students (before potentially expanding to other college campuses). I wanted the app to feel warm and inviting, yet sleek and clean, with some minimalistic feel. 
+
+Upcoming screens that need to be prototyped:
+- Pantry inventory screen
+- Profile screen (+ review section, badges section)
+- Chat screen & individual chat screens (move chat icon to upper right corner to make room for bookmarked/shortlist tab on tabbar)
+- New bookmark/shortlist screen
+  - the user can "shortlist" their favorite pantries and be able to access the inventory details from there. This solves the issue of not having a permanent list of pantries to reference to in the list view of the main feed. 
+- Create new post screen
+  - for pantry, ways to indicate which specific pantry placing item into / different text associated with it from caption + image
+  - ^ perhaps it would be better to have an option in the create post screen for which type of post the user wants to create first, and the app can provide them with a template / specific fields that need to be filled out
+- Activity screen (with location radius toggle bar)
+
+Smaller things:
+- ability of user to post multiple pics, and to swipe through pics in given post gallery style
+- login / signup screens
+- onboarding / walkthrough tutorial screens 
+- drop down menu for filter button in main feed
+- (tentative) Columbia / Barnard campus toggle in map view (but user can just change their location themselves as well)
+- color-coded pins on map that also indicate time urgency of food (items with smaller time windows of freshness & if the sharer has limited time to get the food item off of their hands)
+- different colored nav bars (based on tab selected)
+- faq's screen
+- (tentative) where to place search bar <-- still kind of need this, but placement is awkward given the current layout of the ui
 
 <table>
   <tr>
@@ -75,9 +102,13 @@ https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=sca
 
 🍁 Maple is a social reward platform where users can use points from one restaurant to claim a reward from another, for a premium. More than any loyalty program hub or dining rewards program, this elegant solution has the power to simultaneously nurture meaningful relationships with regulars and offer the flexibility that variety-minded diners desperately crave.
 
-# Development process
+### Brainstorming process 
 
-Building the MVP for Maple was my first time using SwiftUI. As SwiftUI is still a relatively new language, a large part of the challenges came from implementing certain methods that were not supported. For example, when dragging the horizontal carousel view, the ability to have the current card in view slow down and "snap" into place, rather than whizzing past at the same speed as the other cards in the carousel:
+I worked on Maple over the summer as part of ORIGIN, an entrepreneurship bootcamp program. I was essentially a jack of all trades -- I was product lead, frontend lead, finance lead, and worked on much of the ideation and design prototyping as well. Maple was my first experience in working on a startup from ideation phase. As my product management internship at Mastercard had concluded by July, I was working full time on Maple alongside my teammates and we had many sleepless nights where we kept ideating and debating about pivots. All in all, Maple was the result of 3 pivots, more than 50 user survey responses, more than 40 user interviews, and 10 wireframe testing sessions. Maple got me really excited about entrepreneurship when it comes to bringing an idea to life, designing for the users, and pitching a startup idea. I'm excited to learn more about the business development side of things when it comes to bringing a product in front of stakeholders and acquiring customers.
+
+### Development process
+
+Building the MVP for Maple was also my first time using SwiftUI. As SwiftUI is still a relatively new language, a large part of the challenges came from implementing certain methods that were not supported. For example, when dragging the horizontal carousel view, the ability to have the current card in view slow down and "snap" into place, rather than whizzing past at the same speed as the other cards in the carousel:
 
 Code snippet:
 
