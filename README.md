@@ -31,7 +31,7 @@ FoodFinds is an app meant to used by college students looking to give away their
   </tr>
 </table>
 
-Currently, Foodfinds is in its second user-centered design (UCD)loop. Across ~10 user research interviews gathered so far, the major risks that have been identified and tackled were people feeling uncomfortable with getting food from others due to stigma surrounding food insecurity issues and differentiating Foodfinds from existing platforms like Sharemeals, Olio, and Facebook marketplace. The risk that still needs to be tackled is incentivizing people to be active on the platform and share food opportunities, whether thhat will involve a sharer-to-receiver review system or visualizations (either in the form of a percentage or points that will convert to badges) of carbon emissions  reduced from food that would have gone to waste. Once again, in making sure that using Foodfinds doesn't feel like an act of charity in giving food to peers in need, Foodfinds's brand values aren't about doing social good for peers, but about doing environmental good for the planet and for the food itself that would have otherwise gone to waste. 
+Currently, Foodfinds is in its second user-centered design (UCD) loop. Across ~10 user research interviews gathered so far, the major risks that have been identified and tackled were people feeling uncomfortable with getting food from others due to stigma surrounding food insecurity issues and differentiating Foodfinds from existing platforms like Sharemeals, Olio, and Facebook marketplace. The risk that still needs to be tackled is incentivizing people to be active on the platform and share food opportunities, whether thhat will involve a sharer-to-receiver review system or visualizations (either in the form of a percentage or points that will convert to badges) of carbon emissions  reduced from food that would have gone to waste. Once again, in making sure that using Foodfinds doesn't feel like an act of charity in giving food to peers in need, Foodfinds's brand values aren't about doing social good for peers, but about doing environmental good for the planet and for the food itself that would have otherwise gone to waste. 
 
 I plan to implement FoodFinds in SwiftUI after getting the Figma prototype to a state where all aspects of the app's core functionality is well represented. I'm excited to revisit the language after the most recent updates since I last used it over the summer!
 
@@ -52,18 +52,23 @@ I plan to implement FoodFinds in SwiftUI after getting the Figma prototype to a 
 
 Setting up the design system so that it had the feel of a real iOS app and so that I could reuse components definitely took quite a bit of time! One of the most time consuming challenges was actually getting the dimensions of items to be consistent in scale and ensuring that items in a group had the same positioning and alignment (I wish that Figma had Adobe XD's grid drag thingy!). I also used horizontal scrolling for the first time in Figma (I've had more experience previously using Adobe XD and Invision Studio). I used a bunch of icons I found in the Figma community, and started laying out FoodFind's color palette as well. As with my paper prototype (that I had drawn in Notability on my iPad), I decided to go with a light blue as the main theme color, which is quite fitting, as light blue is Columbia University's color, and FoodFinds is meant to be used by Columbia students (before potentially expanding to other college campuses). I wanted the app to feel warm and inviting, yet sleek and clean, with some minimalistic feel. 
 
+Right now the first thing that users will see when they open the app is the main feed in the Discover tab. Right now the model is centered aroudn the belief (with backing from user research interviews so far, but will need to continue validating this), that users will prioritize seeing live updates on food being shared vs. checking their notifications/lists of pantries on which items got recently placed into their go-to pantries. Will also need to continue fleshing out the user workflows for pantry drop-off, 1:1 meetup exchange, meal swipe share, etc.
+
 Upcoming screens that need to be prototyped:
 - Pantry inventory screen
 - Profile screen (+ review section, badges section)
 - Chat screen & individual chat screens (move chat icon to upper right corner to make room for bookmarked/shortlist tab on tabbar)
 - New bookmark/shortlist screen
   - the user can "shortlist" their favorite pantries and be able to access the inventory details from there. This solves the issue of not having a permanent list of pantries to reference to in the list view of the main feed. 
+  - ^ but only would have about 10 pantries on campus (1 per dorm), so not make as much sense to have to bookmark -- currently exploring other ways of better incor
 - Create new post screen
   - for pantry, ways to indicate which specific pantry placing item into / different text associated with it from caption + image
   - ^ perhaps it would be better to have an option in the create post screen for which type of post the user wants to create first, and the app can provide them with a template / specific fields that need to be filled out
 - Activity screen (with location radius toggle bar)
 
 Smaller things:
+- put search bar above filters, collapse list/map toggle and set location when scroll up
+- sort button / drop down (sort by location, time of freshness (default is time of posting), etc.)
 - ability of user to post multiple pics, and to swipe through pics in given post gallery style
 - login / signup screens
 - onboarding / walkthrough tutorial screens 
