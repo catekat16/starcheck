@@ -98,25 +98,25 @@ Supercharged seeks to provide event attendees with a chance to network after the
 
 <img src="supercharged screenshots/miroboard.png" width=650>
 
-### Figma File 
+### Figma Snippets
 
 <table>
   <tr>
     <td>
-      <img src="supercharged screenshots/screen1.png" height=200>
+      <img src="supercharged screenshots/screen1.png" height=150>
     </td>
     <td>
-      <img src="supercharged screenshots/screen3.png" height=200>
+      <img src="supercharged screenshots/screen3.png" height=150>
     </td>
     <td>
-      <img src="supercharged screenshots/screen4.png" height=200>
+      <img src="supercharged screenshots/screen4.png" height=150>
     </td>
   </tr>
 </table>
 
 ### Walkthrough of App so far Gif
 
-<img src="http://g.recordit.co/TwWiAqHMgd.gif" height=500><br>
+<img src="http://g.recordit.co/TwWiAqHMgd.gif" height=450><br>
 
 ### Figma Demo
 
