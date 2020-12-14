@@ -7,8 +7,8 @@
 
 ## Table of Contents
 1. [FoodFinds](#FoodFinds) <br>
-  a.[Initial branding](#FoodFinds) <br>
-  b.[After rebranding](##Rebranding)
+  a. [Initial branding](#FoodFinds) <br>
+  b. [After rebranding](##Rebranding)
 2. [Maple](#Maple)
 3. [Supercharged](#Supercharged)
 
@@ -157,6 +157,29 @@ Side by side comparisons of current, rebranded FoodFinds feed screen with the pr
 ### Rebranded Walkthrough of App Gif
 
 <img src="http://g.recordit.co/UlAbH9mViW.gif" width=400><br>
+
+### Features that still need to be prototyped
+
+* [] pantry toggle view
+* [] meal swipe shares toggle view
+* [] meal swipe notification type shares, view that pops up when click into button
+* [] pop up when click into pantry (both map view and list view)
+* [] new map view, styling of cards in carousel 
+* [] under username in post, we have their location, pin icon, connect to map view version
+* [] where to put address of location in carousel card in map view
+* [] get rid of create button icon in tabbar, either have floating button model or blank field to create a post as the first item in the list of posts in the feed views
+* [] create post screen (different views depending on which type of post the user indicates)
+* [] profile screen: add in toggle views, other insights of profile activity, summary of data,  shared with x people, etc., reviews of users 
+* [] edit activity screen to either have carbon emission reduced percentage info if we want to place more emphasis on the environmental aspect -- otherwise, edit to place less emphasis on the environmental aspect as on the sharing good food and cheer with peers (the environmental component seems kind of like an add-on to the current branding, not sure how much of it would want to incorporate going forward
+* [] edit login screen to fit in with the branding style more (warm, foodie, playful), have interactions for both the username and passcodes fields filled out when click into both of those fields
+* [] edit chat screen ui to fit in more with the branding style, make more orange, _warm_
+* [] Put search bar above toggle tabbar, collapse list/map toggle and set location when scroll up (get rid of list/map toggle bar), and also having more sort/filter options
+* [] Allergies / Dietary restrictions screen when first onboarding so that posts with potential allergens are marked by the app when shown to the user
+* [] Display both examples of posts that are expired and posts that are expiring soon (whether or not to show that fully in the feed or disappear after a certain amount of time?)
+* [] implement in SwiftUI
+* [] other Easter egg / holiday advent calendar surprises like current donut when no more posts to load (love the Yelp pull down rocketship animation)
+
+Definitely a lot to prototype and do -- need to make sure that there are 1 or more complete user stories on the app!
 
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
