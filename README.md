@@ -6,9 +6,7 @@
 > For now I'll share some design prototypes of various projects I've been working on recently: 
 
 ## Table of Contents
-1. [FoodFinds](#FoodFinds) <br>
-  a. [Initial branding](#FoodFinds) <br>
-  b. [After rebranding](##Rebranding)
+1. [FoodFinds](#FoodFinds)
 2. [Maple](#Maple)
 3. [Supercharged](#Supercharged)
 
