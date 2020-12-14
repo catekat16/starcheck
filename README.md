@@ -5,6 +5,13 @@
 > The portfolio section on my personal website https://caitlynchen.com will be launched soon! <br>
 > For now I'll share some design prototypes of various projects I've been working on recently: 
 
+## Table of Contents
+1. [FoodFinds](#FoodFinds) <br>
+  a.[Initial branding](###FoodFinds) <br>
+  b.[After rebranding](###Rebranding)
+2. [Maple](#Maple)
+3. [Supercharged](#Supercharged)
+
 # FoodFinds
 
 <img src="foodfinds screenshots/foodfindscover.png" width=1000><br>
@@ -97,7 +104,7 @@ Smaller things:
 
 <img src="http://g.recordit.co/07z0vMCKsx.gif" width=400><br>
 
-## Rebranding:
+## Rebranding
 
 The goal of the rebrand was to make the app more inviting and be more reminiscent of food. I chose to go with an orange color palette with violet gradient accents for buttons. The goal was also to do away with any more feelings of discomfort that users may feel in using the app to search for free food opps, by creating a warm, foodie atmosphere. 
 
@@ -147,7 +154,7 @@ Side by side comparisons of current, rebranded FoodFinds feed screen with the pr
   </tr>
 </table>
 
-### Rebranded Walkthrough of App Gif:
+### Rebranded Walkthrough of App Gif
 
 <img src="http://g.recordit.co/UlAbH9mViW.gif" width=400><br>
 
