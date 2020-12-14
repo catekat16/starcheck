@@ -60,7 +60,7 @@ Upcoming screens that need to be prototyped:
 - Chat screen & individual chat screens (move chat icon to upper right corner to make room for bookmarked/shortlist tab on tabbar)
 - New bookmark/shortlist screen
   - the user can "shortlist" their favorite pantries and be able to access the inventory details from there. This solves the issue of not having a permanent list of pantries to reference to in the list view of the main feed. 
-  - ^ but only would have about 10 pantries on campus (1 per dorm), so not make as much sense to have to bookmark -- currently exploring other ways of better incor
+  - ^ but only would have about 10 pantries on campus (1 per dorm), so not make as much sense to have to bookmark -- currently exploring other ways of better incorporating a more consolidated list of pantries (can have both the list and map views act as entry points to the pantry inventory view)
 - Create new post screen
   - for pantry, ways to indicate which specific pantry placing item into / different text associated with it from caption + image
   - ^ perhaps it would be better to have an option in the create post screen for which type of post the user wants to create first, and the app can provide them with a template / specific fields that need to be filled out
@@ -96,6 +96,60 @@ Smaller things:
 ### Walkthrough of App so far Gif
 
 <img src="http://g.recordit.co/07z0vMCKsx.gif" width=400><br>
+
+## Rebranding:
+
+The goal of the rebrand was to make the app more inviting and be more reminiscent of food. I chose to go with an orange color palette with violet gradient accents for buttons. The goal was also to do away with any more feelings of discomfort that users may feel in using the app to search for free food opps, by creating a warm, foodie atmosphere. 
+
+Here are the iconsets and color palettes that helped shape the new brand vision of FoodFinds:
+
+<img src="foodfinds screenshots/brandset.png" width=350>
+
+New look of the list view in the feed screen:
+
+<img src="foodfinds screenshots/screen1.png" width=350>
+
+To resolve the longstanding question of how to best organize and present the data on the four different types of food postings -- meal swipes, food left over from club events, 1:1 food meetups, and pantry drop offs -- a toggle tabbar replaced the filter toggles in the main feed screen so that the user could toggle between different views of postings and expect to receive different types of information when they navigate between toggles, rather than get aggregated postings within the same list view. 
+
+For meal swipe sharing, in this model, meal swipe requests and shares will be done in real time, rather than say, postings at 2pm about going to the dining hall at 7pm with meal swipes to share. This way, meal swipe shares will be both more convenient for the user and be more guaranteed (a user who's sharing a meal swipe will first "check in to the dining hall" based on their location, and then indicate the time window for which they will be open to swiping other people in, presumably as long as the duration of their meal lasts. The app will directly match people who press the request button and people who press the share button in the meal swipe view and notify each person, so that neither party has to do the reaching out, which was the case in the previous model.
+
+For more spontaneous postings like posts about extra food left over from club events or about food items they would want to give away in a physical meetup rather than drop it off in a pantry, those types of posts would both fall under the live social media feed type postings umbrella, and basically look identical to the ui of postings in the old model. The club event type postings have been prototyped, and the food item exchanges (the og type post that FoodFinds was originally meant to center on, anyway), would look more or less the same, but with more information on the sharer's preferred form of contact to coordinate the 1:1 meetup / pickup, as dm'ing is the most necessary for this use case out of the different use cases.
+
+For the pantry problem, in this model when a user clicks into a pantry card in either the list view or map view, they are presented with a popup that fills up the whole screen with the pantry inventory details (like in Google Maps). 
+
+Change from filter toggles to toggle tabbar:
+
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/oldiconbar.png" width=300> ➡️
+    </td>
+    <td>
+      <img src="foodfinds screenshots/newiconbar.png" width=300>
+    </td>
+  </tr>
+</table>
+
+New look of list view screen with the new organization of data under the toggle tabbar model:
+
+<img src="foodfinds screenshots/screen2.png" width=350>
+
+Side by side comparisons of current, rebranded FoodFinds feed screen with the previous, Columbia light blue minimalistic branding:
+
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/rebranding1.png" width=350> 
+    </td>
+    <td>
+      <img src="foodfinds screenshots/rebranding2.png" width=350>
+    </td>
+  </tr>
+</table>
+
+### Rebranded Walkthrough of App Gif:
+
+<img src="http://g.recordit.co/UlAbH9mViW.gif" width=400><br>
 
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
