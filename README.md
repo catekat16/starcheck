@@ -171,6 +171,7 @@ Side by side comparisons of current, rebranded FoodFinds feed screen with the pr
 * [ ] create post screen (different views depending on which type of post the user indicates)
 * [ ] profile screen: add in toggle views, other insights of profile activity, summary of data,  shared with x people, etc., reviews of users 
 * [ ] edit activity screen to either have carbon emission reduced percentage info if we want to place more emphasis on the environmental aspect -- otherwise, edit to place less emphasis on the environmental aspect as on the sharing good food and cheer with peers (the environmental component seems kind of like an add-on to the current branding, not sure how much of it would want to incorporate going forward
+* [ ] change language of environmental onboarding screen (onboarding screen 5) to be more in tone of brand and of the app's sell
 * [ ] edit login screen to fit in with the branding style more (warm, foodie, playful), have interactions for both the username and passcodes fields filled out when click into both of those fields
 * [ ] edit chat screen ui to fit in more with the branding style, make more orange, _warm_
 * [ ] Put search bar above toggle tabbar, collapse list/map toggle and set location when scroll up (get rid of list/map toggle bar), and also having more sort/filter options
