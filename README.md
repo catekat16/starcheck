@@ -190,6 +190,14 @@ For meal swipe sharing, instead of a list view, there could even be a grid view 
 
 In the future, there is also a likely possibility of extending to a more social, following friends aspect where Tammy's friend Sam can then see a notifcation "Tammy just shared a swipe!", and Sam is able to like or comment on it (much like the temporal notifications and posts that LinkedIn generates when a user updates their job status (the user in both cases wouldn't have to create such a post themselves, but instead can mark to the app that they are open to sharing the update with their friends). 
 
+## Tangential but other random, kinda related but not really app ideas
+
+Foodie app where users can post about places they're looking to check out the weekend or mark restaurants as their wishlist and they could invite their friends on the platform. Basically nate but social and you can see each other's wishlists / ratings of past places you've been too (ideally would have functionality to support importing reviews on yelp / instagram food accounts), but would be focused on wishlist places that the user is planning to check out / have been meaning to check out in the near future. When a user friends another user or creates a group of friends, they will see the list of food places they all have starred in common, or if not, the places with most intersections of commonality (like whentomeet but for food). 
+
+Other app ideas: padsplit but for food (get deals like starbucks deals (happy hours), buy one get one 50% off, large group deals, etc.), college students plit costs for deals on bulk transactions.
+
+Would love to have some sort of community platform that better facilitates new social connections (especially with resurgence of the freshmen year spirit where people are really open to making new friends, which is really nice for upperclassmen who would otherwise stick to the same group of friends going into the next semester), some sort of way to generate viral, fun, social ideal friend / activity partner connections, some sort of way to make the user really curious to find out and be motivated to actually check out the new connection that an app would recommend to them)...would definitely have more emphasis on the dorm the user is living in, so that they can have familiar faces, esp in corridor style dorms (good thing that housing put all juniors in the same dorms, like a flashback to the more shared, common experience of freshmen dorms). An app that's the RA to help you get to know your peers on campus your junior year, indeed like freshmen year all over again!
+
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
 
