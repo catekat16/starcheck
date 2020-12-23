@@ -203,7 +203,7 @@ Find people to cook with, to do safe socially distanced, mask on, activities wit
 
 ## User Stories!
 
-After an all-nighter (what a better way to end the semester amirite 😩😆), the following user stories are complete!
+After an all-nighter (what a better way to end the semester amirite 😩 😆), the following user stories are complete!
 
 ### Login/Onboarding:
 
@@ -237,10 +237,38 @@ Where the catered noms at.
 
 From around 24 screens just a day ago to 67 screens overnight... 🙂
 
+<table>
+  <tr>
+    <td>
+      <img src="foodfinds screenshots/screens.png" width=500> 
+    </td>
+    <td>
+      <img src="foodfinds screenshots/wires.png" width=500>
+    </td>
+  </tr>
+</table>
 
+...all those wires! 
+
+### Misc.
+
+Color Palette and graphics used for FoodFinds presentation:
+
+<img src="foodfinds screenshots/palette.png" width=500>
 
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
+
+^ If you have been following the progress of the FoodFinds project up until now, kudos 👏 to you! Please enjoy the current prototype~ 🙌 🙂
+
+What's next for FoodFinds: editing the ui of the activity feed, profile, and time selector popup. Potentially working on SwiftUi development over winter break and beta testing with users on campus with the team next semester! 🤩
+
+We hope you continue to follow us on our journey to seeking out noms and quality foodfinds around campus.
+
+Landing page coming soon at foodfinds.club
+
+❤️,
+FoodFinds
 
 ------------------------
 # Maple
