@@ -201,6 +201,40 @@ Would love to have some sort of community platform that better facilitates new s
 
 Find people to cook with, to do safe socially distanced, mask on, activities with (indicate your comfort level with taking off masks at indoor venues with strangers), find people to eat spicy food with, to bond over the struggles of the classes you spent a semester online in and never got to meet the classmates who would've been great friends, bond with people experiencing the same career struggle as you (treat this like a networking opportunity too!), bond with your new coffee and bagel early breakfast partner, your cool NYC event finds scoping buddy, find new exercise buddie,s jogging buddies, people with whom you could find sanity with in this time of insanity and bond over the struggles of aTteNdiNG tHE grEAtEST uNIVerSiTY in THE GreAtEST ciTY EVer -- that is COLUMBIAAAA with.
 
+## User Stories!
+
+After an all-nighter (what a better way to end the semester amirite 😩😆), the following user stories are complete!
+
+### Login/Onboarding:
+
+<img src="http://g.recordit.co/tr9txU4Cb4.gif" width=350>
+
+### Food 1:1 meetup exchange:
+
+(the whole process, including user chat, confirmation of exchange, and user rating)
+
+<img src="http://g.recordit.co/f2afFEmbSf.gif" width=350>
+
+### Free food from club events:
+
+Where the catered noms at.
+
+<img src="http://g.recordit.co/aBtHDiAJpU.gif" width=350>
+
+### Meal Swipe Sharing and getting matched with your meal swipe buddy! 🤩:
+
+<img src="http://g.recordit.co/XXs6oA9DMA.gif" width=350>
+
+### Updating inventory status of pantries:
+
+<img src="http://g.recordit.co/E8GUlKtt8b.gif" width=350>
+
+### Creating different types of posts:
+
+(the meal swipe sharing button just takes you back to the meal swipe sharing list view, from which you can easily share or get a swipe)
+
+<img src="http://g.recordit.co/IxsttDPL3s.gif" width=350>
+
 ### Figma Demo
 https://www.figma.com/proto/8JCJtpVgMyXwazvPNQrqum/Fig?node-id=6%3A6&scaling=scale-down
 
