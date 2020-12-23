@@ -38,7 +38,7 @@ FoodFinds is an app meant to used by college students looking to give away their
 
 Currently, Foodfinds is in its second user-centered design (UCD) loop. Across ~10 user research interviews gathered so far, the major risks that have been identified and tackled were people feeling uncomfortable with getting food from others due to stigma surrounding food insecurity issues and differentiating Foodfinds from existing platforms like Sharemeals, Olio, and Facebook marketplace. The risk that still needs to be tackled is incentivizing people to be active on the platform and share food opportunities, whether thhat will involve a sharer-to-receiver review system or visualizations (either in the form of a percentage or points that will convert to badges) of carbon emissions  reduced from food that would have gone to waste. Once again, in making sure that using Foodfinds doesn't feel like an act of charity in giving food to peers in need, Foodfinds's brand values aren't about doing social good for peers, but about doing environmental good for the planet and for the food itself that would have otherwise gone to waste. 
 
-I plan to implement FoodFinds in SwiftUI after getting the Figma prototype to a state where all aspects of the app's core functionality is well represented. I'm excited to revisit the language after the most recent updates since I last used it over the summer!
+I plan to implement FoodFinds in SwiftUI after getting the Figma prototype to a state where all aspects of the app's core functionality is well represented. My teammates and I are thinking of working on FoodFinds over winter break!
 
 ### Prototyping Process
 
